@@ -2,5 +2,12 @@
  
 Learning ViewThatFits in SwiftUI.
 
-![](https://github.com/Venera-Ko/ViewThatFits/blob/main/screenshotCompressed.png)
+
+<p>
+<img src="https://github.com/Venera-Ko/ViewThatFits/blob/main/screenshotCompressed.png" width="300">
+</p>
+
+<!--![](https://github.com/Venera-Ko/ViewThatFits/blob/main/screenshotCompressed.png)-->
+
+
 
