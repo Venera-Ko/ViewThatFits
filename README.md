@@ -1,6 +1,4 @@
- # ViewThatFits
- 
-Learning ViewThatFits in SwiftUI.
+ # SwiftUI
 
 
 <p>
